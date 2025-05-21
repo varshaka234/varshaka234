@@ -1,30 +1,34 @@
-name: Waka Readme
+# Hi there, I'm [Your Name]! 👋
 
-on:
-  # for manual workflow trigger
-  workflow_dispatch:
-  schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+[Short one-line introduction about yourself]
 
-jobs:
-  update-readme:
-    name: Wakatime DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+## About Me
 
-                    ### commit
-          COMMIT_MESSAGE: Updated wakatime data with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: github-actions[bot]
-          COMMITTER_EMAIL: action-bot@github.com # optional
+- 🔭 I'm currently working on [current project/work]
+- 🌱 I'm currently learning [skills/technologies]
+- 👯 I'm looking to collaborate on [types of projects]
+- 🤔 I'm looking for help with [specific challenges]
+- 💬 Ask me about [your expertise]
+- 📫 How to reach me: [email/contact info]
+- 😄 Pronouns: [your pronouns]
+- ⚡ Fun fact: [something interesting]
+
+## My Skills
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Technologies
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+## My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-url)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white)](your-portfolio-url)
