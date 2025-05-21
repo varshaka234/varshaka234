@@ -5,7 +5,7 @@
 - BSc in Physics  
 ## 🔍 Open to Opportunities  
 I’m actively looking for roles in **Data Science/Analytics** or **Full-Stack Development**.  
-📩 Reach out: [Email](mailto:your-email@gmail.com) | [LinkedIn](#)  
+📩 Reach out: [Email](mailto:officialvarshaka@gmail.com)  
 
 🎯 **Current Focus**  
 - Pursuing studies in Data Science and Analytics  
