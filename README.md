@@ -3,6 +3,9 @@
 📚 **Education**  
 - MCA (Master of Computer Applications)  
 - BSc in Physics  
+## 🔍 Open to Opportunities  
+I’m actively looking for roles in **Data Science/Analytics** or **Full-Stack Development**.  
+📩 Reach out: [Email](mailto:your-email@gmail.com) | [LinkedIn](#)  
 
 🎯 **Current Focus**  
 - Pursuing studies in Data Science and Analytics  
