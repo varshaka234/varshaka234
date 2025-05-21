@@ -1,34 +1,36 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Your Name] 👋
 
-[Short one-line introduction about yourself]
+📚 **Education**  
+- MCA (Master of Computer Applications)  
+- BSc in Physics  
 
-## About Me
+🎯 **Current Focus**  
+- Pursuing studies in Data Science and Analytics  
+- Expanding my knowledge in machine learning and statistical analysis  
 
-- 🔭 I'm currently working on [current project/work]
-- 🌱 I'm currently learning [skills/technologies]
-- 👯 I'm looking to collaborate on [types of projects]
-- 🤔 I'm looking for help with [specific challenges]
-- 💬 Ask me about [your expertise]
-- 📫 How to reach me: [email/contact info]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [something interesting]
+## 🛠️ Technical Skills
+**Languages**: JavaScript, Python, SQL  
+**Frontend**: React, HTML, CSS  
+**Backend**: Node.js  
+**Databases**: MySQL  
+**Data Science**: NLP, Sentiment Analysis  
 
-## My Skills
+## 💼 Projects
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### College Admission Management System
+- **Technologies**: React, Node.js, MySQL  
+- A comprehensive system for managing college admissions processes  
+- Features include applicant tracking, document management, and reporting  
 
-### Technologies
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+### Sentiment Analysis using NLP
+- Natural Language Processing project analyzing emotional tone in text data  
+- Implemented machine learning models for text classification  
 
-## My GitHub Stats
+## 🌱 Currently Learning
+- Advanced Data Analytics techniques  
+- Machine Learning algorithms  
+- Big Data technologies  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white)](your-portfolio-url)
+## 📫 How to Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
